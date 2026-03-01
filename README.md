@@ -37,7 +37,7 @@ E-commerce companies generate massive amounts of transactional data but often st
 
 ## 📊 Dashboard Preview
 
-> ![Dashboard Preview](dashboard.png)
+> ![Dashboard Preview](Dashboard.png)
 
 ---
 
