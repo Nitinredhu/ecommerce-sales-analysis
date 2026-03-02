@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛒 E-Commerce Customer Behavior Analysis
+# 🛒 Brazilian E-Commerce Customer Behavior Analysis
 
 ### Transforming Raw Transactional Data into Actionable Business Insights
 
